@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darklord125&label=Profile%20views&color=0e75b6&style=flat" alt="darklord125" /> </p>
 
-- 🌱 I’m currently learning **Flutter, MERN, Blockchain**
+- 🌱 I’m currently learning **Nextjs, Nodejs, Typescript**
 
-- 💬 Ask me about **Java, PHP, JavaScript, HTML, CSS**
+- 💬 Ask me about **Nodejs, JavaScript, HTML, CSS**
 
 - 📫 How to reach me **hashwin381@gmail.com**
 
